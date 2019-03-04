@@ -2,6 +2,9 @@
   max-width: 600px;
   margin: 0 auto;
 }
+#body{
+  margin: 0px;
+}
 #phone{
   position: fixed;
   top:50%;
