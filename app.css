@@ -1,3 +1,7 @@
+#main{
+  max-width: 600px;
+  margin: 0 auto;
+}
 #phone{
   position: fixed;
   top:50%;
