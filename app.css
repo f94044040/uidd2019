@@ -1,0 +1,15 @@
+#phone{
+  position: fixed;
+  top:50%;
+  left:50%;
+}
+#leaf_1{
+  position: fixed;
+  top:75%;
+  left:10%;
+}
+#leaf_2{
+  position: fixed;
+  top:35%;
+  left:90%;
+}
